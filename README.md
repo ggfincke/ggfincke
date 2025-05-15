@@ -48,7 +48,7 @@ Hey! I'm **Garrett Fincke**, a full-stack engineer focusing on data infrastructu
 ### [Beacon](https://github.com/ggfincke/beacon) 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
 
-Full-stack price & stock tracking platform to help users find cheaper alternatives for essential products; evolution of InStock, a previous project *(see below)*
+Full-stack price & stock tracking platform to help users find cheaper alternatives for essential products; evolution/extension of InStock, a previous project
 
 - ⚙️ Building with a consumer focus—providing price histories, inflation visualizations, and recommendation systems
 - 🧠 Designed with Django backend using PostgreSQL, Redis, and Celery for scalable job handling
