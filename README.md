@@ -2,6 +2,8 @@
 
 Hey! I'm Garrett Fincke, a full-stack engineer focusing on data infrastructure, backend systems, and building MVPs. I've been working with tools like Django, React, PostgreSQL, Redis, and Docker. I'm currently building Beacon *(working title)* — read about it below!
 
+You can find more about my projects, experience, and contact info on my [website portfolio](https://fincke.dev)!
+
 - 🎓 Penn State CS Grad (Dec '24)
 - 🧠 Currently doing freelance work @ Outlier.ai, working on AI eval! 
 - 🛠️ Building Beacon, InStock, & more! 
