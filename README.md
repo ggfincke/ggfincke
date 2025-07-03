@@ -1,12 +1,12 @@
 ### 👋 About Me
 
-Hey! I'm Garrett Fincke, a full-stack engineer focusing on data infrastructure, backend systems, and building MVPs. I've been working with tools like Django, React, PostgreSQL, Redis, and Docker. I'm currently building Beacon *(working title)* — read about it below!
+Hi, I’m Garrett Fincke — a full-stack engineer focused on building fast, scalable, and intuitive software. From mobile apps and web platforms to data pipelines and AI tools, I develop end-to-end systems that are both performant and reliable. I care deeply about developer experience, clean architecture, and shipping products that actually help people.
 
 You can find more about my projects, experience, and contact info on my [website portfolio](https://fincke.dev)!
 
 - 🎓 Penn State CS Grad (Dec '24)
-- 🧠 Currently doing freelance work @ Outlier.ai, working on AI eval! 
-- 🛠️ Building Beacon, InStock, & more! 
+- 🧠 Currently doing contract work @ Scale AI for major tech companies like Google, Meta, & OpenAI
+- 🛠️ Building TrackBasket, SwimMate, & more! 
 - 📍 Based in Pittsburgh, PA 
 
 ## 🛠️ Technical Skills
@@ -46,19 +46,17 @@ You can find more about my projects, experience, and contact info on my [website
 
 ## 🚀 Currently Working On
 
-
 ### 🧺 TrackBasket
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white" /> <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=fff" /></a> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />  
+**🚀 [Live Demo](https://bolt-hackathon-five.vercel.app) | [GitHub](https://github.com/ggfincke/BoltHackathon)**
 
-Comprehensive web crawling and price tracking system for extracting product data from major retailers (Amazon, Target, Walmart) with advanced UPC lookup, real-time monitoring, and user basket management
+Deployed price tracking platform monitoring **30k+ products** across 4 major retailers (Amazon, Target, Walmart, and more) with AI-powered basket management and real-time notifications.
 
-- 🕷️ **Advanced Web Crawling**: Sophisticated crawlers for discovering and extracting product data at scale across major retailers
-- 🔍 **UPC Lookup System**: Multi-service fallback UPC/barcode lookup with intelligent caching and confidence scoring
-- 🗄️ **Multiple Backends**: Support for JSON files, Redis queues, and Supabase database with automatic deduplication
-- 📊 **Price & Stock Tracking**: Real-time price monitoring, historical data analysis, and availability tracking
-- 🛒 **Smart Basket Management**: User baskets with shared access, price drop notifications, and target price alerts
-- ⚡ **Scalable Architecture**: Built with Supabase backend, Redis caching, and Celery for distributed task processing
-- 🎯 **Hierarchical Processing**: Pre-built category hierarchies and intelligent product categorization
-- 🌐 **Cross-platform Frontend**: React/Next.js interface for managing tracked products and price insights
+- 🤖 **AI Chat-to-Basket**: OpenAI API integration that converts natural language into structured product baskets using Supabase data
+- 🕷️ **Advanced Web Crawling**: CAPTCHA solving, anti-bot countermeasures, and intelligent data normalization across major retailers
+- ⚡ **Backend Infrastructure**: Edge Functions, PostgreSQL fuzzy search, UPC matching system, and real-time notification engine
+- 📱 **Cross-Platform**: Web app with React/Next.js frontend + Swift mobile companion app
+- 🛡️ **Production-Ready**: Deployed with Docker containerization and scalable Supabase backend architecture
+- 🔍 **Smart Product Discovery**: Intelligent product matching and deduplication across multiple retailer sources
 
 *(May 2025 - Present)*
