@@ -46,17 +46,16 @@ You can find more about my projects, experience, and contact info on my [website
 
 ## 🚀 Currently Working On
 
-### 🧺 TrackBasket
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />  
-**🚀 [Live Demo](https://bolt-hackathon-five.vercel.app) | [GitHub](https://github.com/ggfincke/BoltHackathon)**
+### 🧵 Loom
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Typer-3775A9?style=flat-square&logo=pypi&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />  
+**🚀 [GitHub](https://github.com/ggfincke/loom)**
 
-Deployed price tracking platform monitoring **30k+ products** across 4 major retailers (Amazon, Target, Walmart, and more) with AI-powered basket management and real-time notifications.
+AI-powered CLI that tailors résumés to specific job descriptions with **surgical edits by line number** and a **strict JSON schema** for reliable, automatable changes.
 
-- 🤖 **AI Chat-to-Basket**: OpenAI API integration that converts natural language into structured product baskets using Supabase data
-- 🕷️ **Advanced Web Crawling**: CAPTCHA solving, anti-bot countermeasures, and intelligent data normalization across major retailers
-- ⚡ **Backend Infrastructure**: Edge Functions, PostgreSQL fuzzy search, UPC matching system, and real-time notification engine
-- 📱 **Cross-Platform**: Web app with React/Next.js frontend + Swift mobile companion app
-- 🛡️ **Production-Ready**: Deployed with Docker containerization and scalable Supabase backend architecture
-- 🔍 **Smart Product Discovery**: Intelligent product matching and deduplication across multiple retailer sources
+- 🤖 **Targeted Tailoring**: Uses OpenAI to align bullets to a given JD without inventing experience
+- ✍️ **Surgical Edits**: Emits deterministic JSON ops (`replace_line`, `replace_range`, `insert_after`, `delete_range`)
+- 📄 **Docx In/Out**: Parses `.docx`, numbers lines, and writes updated files cleanly
+- 🧰 **Great DX**: Typer-based CLI, sensible defaults via settings, and clear prompts
+- 🔒 **Truthful-by-Design**: Prioritizes accuracy; encourages light, defensible edits over fabrication
 
-*(May 2025 - Present)*
+*(Aug 2025 – Present)*
