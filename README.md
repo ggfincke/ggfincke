@@ -50,12 +50,14 @@ You can find more about my projects, experience, and contact info on my [website
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Typer-3775A9?style=flat-square&logo=pypi&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />  
 **🚀 [GitHub](https://github.com/ggfincke/loom)**
 
-AI-powered CLI that tailors résumés to specific job descriptions with **surgical edits by line number** and a **strict JSON schema** for reliable, automatable changes.
+AI-powered CLI for tailoring resumes to job descriptions with reviewable, structured edits and a smooth DX.
 
-- 🤖 **Targeted Tailoring**: Uses OpenAI to align bullets to a given JD without inventing experience
-- ✍️ **Surgical Edits**: Emits deterministic JSON ops (`replace_line`, `replace_range`, `insert_after`, `delete_range`)
-- 📄 **Docx In/Out**: Parses `.docx`, numbers lines, and writes updated files cleanly
-- 🧰 **Great DX**: Typer-based CLI, sensible defaults via settings, and clear prompts
-- 🔒 **Truthful-by-Design**: Prioritizes accuracy; encourages light, defensible edits over fabrication
+- **Structured, reviewable edits.** Generates a JSON of deterministic edit ops (e.g., `replace_line`, `replace_range`, `insert_after`, `delete_range`) you can review or apply, enabling automation without guesswork.  
+- **Section-aware targeting.** `loom sectionize` parses your resume into sections (Summary, Experience, Skills, etc.) so tailoring is precise and constrained.  
+- **Flexible workflows.** One-shot `loom tailor`, or split pipeline with `generate` → `apply` so you can diff and approve changes before writing.  
+- **Format-safe I/O.** Preserves DOCX formatting (in-place or rebuild) and also supports LaTeX `.tex` resumes for end-to-end coverage.  
+- **Multiple model providers.** Works with OpenAI, Anthropic (Claude), and local Ollama models, so you can choose hosted or offline.  
+- **Validation & safety controls.** Strategy-based validation with `--risk` and `--on-error` policies, clear warnings, and a safer apply flow.  
+- **Great DX & configurability.** Persistent settings at `~/.loom/config.json`, `loom config` helpers, `loom models`, and an interactive theme selector (`loom config themes`) for fast iteration.  
 
 *(Aug 2025 – Present)*
