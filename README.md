@@ -22,6 +22,9 @@ You can find more about my projects, experience, and contact info on my [website
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 </p>
 
 <p align="center">
@@ -46,18 +49,16 @@ You can find more about my projects, experience, and contact info on my [website
 
 ## 🚀 Currently Working On
 
-### 🧵 Loom
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Typer-3775A9?style=flat-square&logo=pypi&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />  
-**🚀 [GitHub](https://github.com/ggfincke/loom)**
+### 📦 Hopper
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />  
+**🐙 [GitHub](https://github.com/ggfincke/hopper)**
 
-AI-powered CLI for tailoring resumes to job descriptions with reviewable, structured edits and a smooth DX.
+Cross-platform inventory management for ecommerce sellers across multiple marketplaces.
 
-- **Structured, reviewable edits.** Generates a JSON of deterministic edit ops (e.g., `replace_line`, `replace_range`, `insert_after`, `delete_range`) you can review or apply, enabling automation without guesswork.  
-- **Section-aware targeting.** `loom sectionize` parses your resume into sections (Summary, Experience, Skills, etc.) so tailoring is precise and constrained.  
-- **Flexible workflows.** One-shot `loom tailor`, or split pipeline with `generate` → `apply` so you can diff and approve changes before writing.  
-- **Format-safe I/O.** Preserves DOCX formatting (in-place or rebuild) and also supports LaTeX `.tex` resumes for end-to-end coverage.  
-- **Multiple model providers.** Works with OpenAI, Anthropic (Claude), and local Ollama models, so you can choose hosted or offline.  
-- **Validation & safety controls.** Strategy-based validation with `--risk` and `--on-error` policies, clear warnings, and a safer apply flow.  
-- **Great DX & configurability.** Persistent settings at `~/.loom/config.json`, `loom config` helpers, `loom models`, and an interactive theme selector (`loom config themes`) for fast iteration.  
+- **Cross-platform inventory sync** - Maintain stock levels across eBay, TCGPlayer, StockX, and Facebook Marketplace  
+- **Centralized listing management** - Create and update listings from one interface  
+- **Price optimization** - Dynamic pricing based on market conditions and competition  
+- **Order fulfillment tracking** - Monitor orders from purchase to delivery  
+- **Analytics and reporting** - Sales performance, profit margins, and market insights  
 
-*(Aug 2025 – Present)*
+*(Sep 2025 – Present)*
