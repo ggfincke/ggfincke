@@ -5,8 +5,8 @@ Hi, I’m Garrett Fincke — a full-stack engineer focused on building fast, sca
 You can find more about my projects, experience, and contact info on my [website portfolio](https://fincke.dev)!
 
 - 🎓 Penn State CS Grad (Dec '24)
-- 🧠 Currently doing contract work @ Scale AI for major tech companies like Google, Meta, & OpenAI
-- 🛠️ Building TrackBasket, SwimMate, & more! 
+- 🧠 Currently Owner/Operator @ Pink Ocean Collectibles, my e-commerce business
+- 🛠️ Building Hopper, Loom, SwimMate, & more! 
 - 📍 Based in Pittsburgh, PA 
 
 ## 🛠️ Technical Skills
