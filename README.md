@@ -1,15 +1,6 @@
-### 👋 About Me
+I learn fast, I ship faster!
 
-Hi, I’m Garrett Fincke — a full-stack engineer focused on building fast, scalable, and intuitive software. From mobile apps and web platforms to data pipelines and AI tools, I develop end-to-end systems that are both performant and reliable. I care deeply about developer experience, clean architecture, and shipping products that actually help people.
-
-You can find more about my projects, experience, and contact info on my [website portfolio](https://fincke.dev)!
-
-- 🎓 Penn State CS Grad (Dec '24)
-- 🧠 Currently Owner/Operator @ Pink Ocean Collectibles, my e-commerce business
-- 🛠️ Building Hopper, Loom, SwimMate, & more! 
-- 📍 Based in Pittsburgh, PA 
-
-## 🛠️ Technical Skills
+## Technical Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -47,18 +38,4 @@ You can find more about my projects, experience, and contact info on my [website
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
 </p>
 
-## 🚀 Currently Working On
 
-### 📦 Hopper
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />  
-**🐙 [GitHub](https://github.com/ggfincke/hopper)**
-
-Cross-platform inventory management for ecommerce sellers across multiple marketplaces.
-
-- **Cross-platform inventory sync** - Maintain stock levels across eBay, TCGPlayer, StockX, and Facebook Marketplace  
-- **Centralized listing management** - Create and update listings from one interface  
-- **Price optimization** - Dynamic pricing based on market conditions and competition  
-- **Order fulfillment tracking** - Monitor orders from purchase to delivery  
-- **Analytics and reporting** - Sales performance, profit margins, and market insights  
-
-*(Sep 2025 – Present)*
